@@ -16,3 +16,12 @@ footer {
     margin-top: 3% ;
     text-align: center ;
 }
+
+.pretrained-models {
+    font-size: 0.85em;
+}
+
+.citation {
+    color: orange;
+    font-size: 0.9em;
+}
